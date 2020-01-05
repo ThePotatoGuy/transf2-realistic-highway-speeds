@@ -6,7 +6,7 @@ Includes:
 * 3-lane, 1-way highway @ 55, 60, 65, 70, 75 MPH
 * 1-lane, 1-way highway/ramp @ 55 MPH
 
-Recommended to use this with my Faster Car Speeds mod.
+Recommended to use this with my [Faster Car Speeds mod](https://github.com/ThePotatoGuy/transf2-faster-car-speeds).
 
 Includes a version that supports Doge's [American Roads mod](https://steamcommunity.com/workshop/filedetails/?id=1938493177).
 
