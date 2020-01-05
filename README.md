@@ -11,6 +11,9 @@ Recommended to use this with my Faster Car Speeds mod.
 Includes a version that supports Doge's [American Roads mod](https://steamcommunity.com/workshop/filedetails/?id=1938493177).
 
 To install, copy the appropriate folder to the `mods/` folder.
+
 OR get on Steam Workshop:
+
 [Regular Version](https://steamcommunity.com/sharedfiles/filedetails/?id=1960510428)
+
 [American Roads Version](https://steamcommunity.com/sharedfiles/filedetails/?id=1960510592)
