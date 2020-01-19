@@ -26,3 +26,5 @@ OR get on Steam Workshop:
 
 [KM/H Version](https://steamcommunity.com/sharedfiles/filedetails/?id=1963115401)
 
+[American Roads KM/H Version](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=1973744473)
+
