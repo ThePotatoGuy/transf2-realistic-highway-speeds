@@ -6,7 +6,7 @@ return {
 	sidewalkHeight = .00,
 	yearFrom = 1925,
 	yearTo = 0,
-	upgrade = false,
+	aiLock = true,
 	country = true,
 	speed = 112.7,
 	type = "highway twolane both 70",

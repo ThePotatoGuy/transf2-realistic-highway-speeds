@@ -10,14 +10,13 @@ return {
 	sidewalkHeight = .0,
 	yearFrom = 1925,
 	yearTo = 0,
-	upgrade = false,
+	aiLock = true,
 	country = true,
 	speed = 80.0,
 	type = "highway onelane 80",
 	name = _("1-1-80"),
 	desc = _("One-lane one-way road with a speed limit of %2%."),
 	categories = { "rhs" },
-	borderGroundTex = "street_border.lua",
 	materials = {
 		streetPaving = {
 			name = "street/country_new_medium_paving.mtl",

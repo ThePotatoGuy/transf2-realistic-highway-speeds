@@ -12,14 +12,13 @@ return {
 	sidewalkHeight = 0.02,
 	yearFrom = 1925,
 	yearTo = 0,
-	upgrade = false,
+	aiLock = true,
 	country = true,
 	speed = 88.6,
 	type = "highway threelane 55",
 	name = _("3-1-55"),
 	desc = _("Three-lane one-way road with a speed limit of %2%."),
 	categories = { "rhs" },
-	borderGroundTex = "street_border.lua",
 	materials = {
 		streetPaving = {
 			name = "street/country_new_medium_paving.mtl",
