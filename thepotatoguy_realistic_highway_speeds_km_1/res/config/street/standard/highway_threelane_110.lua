@@ -12,7 +12,7 @@ return {
 	sidewalkHeight = 0.02,
 	yearFrom = 1925,
 	yearTo = 0,
-	aiLock = false,
+	aiLock = true,
 	country = true,
 	speed = 110.0,
     type = "highway threelane 110",
