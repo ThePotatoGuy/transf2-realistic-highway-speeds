@@ -1,7 +1,7 @@
 function data()
 return {
 	info = {
-		minorVersion = 0,
+		minorVersion = 1.1,
 		severityAdd = "NONE",
 		severityRemove = "CRITICAL",
 		name = _("Realistic Highway Speeds (KM/H)"),
