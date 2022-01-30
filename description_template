@@ -24,7 +24,7 @@ Source on [url=https://github.com/ThePotatoGuy/transf2-realistic-highway-speeds]
 ----------------------------------------------------------------------------------
 
 
-Adds variants of the stock highways with specific speeds (KM/H):
+Adds variants of the stock highways with specific speeds (MPH):
 [list]
     [*] 2-lane, 2-way highway @ 55, 60, 65, 70 MPH
     [*] 2-lane, 1-way highway @ 55, 60, 65, 70, 75, 80, 85 MPH
