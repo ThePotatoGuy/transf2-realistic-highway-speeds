@@ -1,0 +1,48 @@
+Adds variants of the stock highways with specific speeds (KM/H):
+[list]
+    [*] 2-lane, 2-way highway @ 90, 100, 110 KM/H (80 provided by stock highway)
+    [*] 2-lane, 1-way highway @ 90, 100, 110, 120, 130, 140 KM/H (80 provided by stock highway)
+    [*] 3-lane, 1-way highway @ 80, 90, 110, 120 KM/H (100 provided by stock highway)
+    [*] 1-lane, 1-way highway/ramp @ 80 KM/H
+[/list]
+
+REQUIRES the [url=https://steamcommunity.com/workshop/filedetails/?id=1938493177]American Roads mod[/url] by Doge.
+
+Recommended to use this with my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1960510201]Faster Car Speeds mod[/url]
+
+[u]Other Versions[/u]
+[list]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1963115401]Regular KM/H[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1960510428]Regular MPH[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1973744473]American Roads KM/H[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1960510592]American Roads MPH[/url]
+[/list]
+
+Source on [url=https://github.com/ThePotatoGuy/transf2-realistic-highway-speeds]Github[/url]
+
+
+----------------------------------------------------------------------------------
+
+
+Adds variants of the stock highways with specific speeds (KM/H):
+[list]
+    [*] 2-lane, 2-way highway @ 55, 60, 65, 70 MPH
+    [*] 2-lane, 1-way highway @ 55, 60, 65, 70, 75, 80, 85 MPH
+    [*] 3-lane, 1-way highway @ 55, 60, 65, 70, 75 MPH
+    [*] 1-lane, 1-way highway/ramp @ 55 MPH
+[/list]
+
+REQUIRES the [url=https://steamcommunity.com/workshop/filedetails/?id=1938493177]American Roads mod[/url] by Doge.
+
+Recommended to use this with my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1960510201]Faster Car Speeds mod[/url]
+
+[u]Other Versions[/u]
+[list]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1963115401]Regular KM/H[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1960510428]Regular MPH[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1973744473]American Roads KM/H[/url]
+    [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1960510592]American Roads MPH[/url]
+[/list]
+
+Source on [url=https://github.com/ThePotatoGuy/transf2-realistic-highway-speeds]Github[/url]
+
