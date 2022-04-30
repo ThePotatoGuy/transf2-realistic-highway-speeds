@@ -12,6 +12,8 @@ The KM/H version includes:
 * 3-lane, 1-way highway @ 80, 90, 110, 120 KM/H (100 provided by stock highway)
 * 1-lane, 1-way highway/ramp @ 80 KM/H
 
+Additionally includes a highway with (basically) unlimited speed (999 km/h).
+
 Recommended to use this with my [Faster Car Speeds mod](https://github.com/ThePotatoGuy/transf2-faster-car-speeds).
 
 Includes a version that supports Doge's [American Roads mod](https://steamcommunity.com/workshop/filedetails/?id=1938493177).
@@ -27,4 +29,8 @@ OR get on Steam Workshop:
 [KM/H Version](https://steamcommunity.com/sharedfiles/filedetails/?id=1963115401)
 
 [American Roads KM/H Version](https://steamcommunity.com/sharedfiles/filedetails/?id=1973744473)
+
+[High Speed Highway](test)
+
+[American Roads High Speed Highway](test)
 
